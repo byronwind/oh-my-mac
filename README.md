@@ -1,5 +1,7 @@
 ## Dev Setup for macOS
 
+Based on [dev-setup](https://github.com/donnemartin/dev-setup)
+
 ## Homebrew
 
 Install homebrew and command-line tools:
