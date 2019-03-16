@@ -166,3 +166,7 @@
 [url "git://gist.github.com/"]
 
     insteadOf = "gist:"
+
+[user]
+    name = liguoqing
+	email = byronwind@gmail.com
